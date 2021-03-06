@@ -19,5 +19,6 @@ elif operation == '^':
     result = delimoe ** delitel
 else:
     result = "unknown"
+#son
 print(type(result))
 print("Result: " + str(result))
